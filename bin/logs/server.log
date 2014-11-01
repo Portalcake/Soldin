@@ -1,0 +1,433 @@
+[13:40:53] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[13:40:53] Connection with the MySQL server established.
+[13:40:53] Accepting client connections on port 15552.
+[13:40:53] Connecting to gateway 127.0.0.1:14440.
+[21:36:26] Server started on port 15550.
+[21:36:26] Accepting square connections on port 14440.
+[21:36:28] Connection with the MySQL server established.
+[21:36:33] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:36:33] Connection with the MySQL server established.
+[21:36:33] Accepting client connections on port 15552.
+[21:36:33] Connecting to gateway 127.0.0.1:14440.
+[21:36:33] Connection with gateway established.
+[21:36:33] [0] Square 127.0.0.1 connected.
+[21:36:33] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552)  has been added.
+[21:40:46] [1] Client 127.0.0.1 connected.
+[21:40:55] [0] Client 127.0.0.1 connected.
+[21:41:04] [1] Client 127.0.0.1 disconnected.
+[21:41:24] [0] Square 127.0.0.1 disconnected.
+[21:42:20] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:42:20] Connection with the MySQL server established.
+[21:42:20] Accepting client connections on port 15552.
+[21:42:20] Connecting to gateway 127.0.0.1:14440.
+[21:42:23] Server started on port 15550.
+[21:42:23] Accepting square connections on port 14440.
+[21:42:23] Connection with the MySQL server established.
+[21:42:23] Connection with gateway established.
+[21:42:23] [0] Square 127.0.0.1 connected.
+[21:42:23] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:43:16] [1] Client 127.0.0.1 connected.
+[21:43:24] [0] Client 127.0.0.1 connected.
+[21:43:30] [1] Client 127.0.0.1 disconnected.
+[21:44:40] [0] Square 127.0.0.1 disconnected.
+[21:48:25] Server started on port 15550.
+[21:48:25] Accepting square connections on port 14440.
+[21:48:25] Connection with the MySQL server established.
+[21:48:31] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:48:31] Connection with the MySQL server established.
+[21:48:31] Accepting client connections on port 15552.
+[21:48:31] Connecting to gateway 127.0.0.1:14440.
+[21:48:31] Connection with gateway established.
+[21:48:31] [0] Square 127.0.0.1 connected.
+[21:48:31] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:49:18] [1] Client 127.0.0.1 connected.
+[21:49:25] [0][CLIENT] 127.0.0.1 connected.
+[21:49:31] [1] Client 127.0.0.1 disconnected.
+[21:49:31] [0][CLIENT] 127.0.0.1 disconnected.
+[21:50:06] [0] Square 127.0.0.1 disconnected.
+[21:52:53] Server started on port 15550.
+[21:52:53] Accepting square connections on port 14440.
+[21:52:53] Connection with the MySQL server established.
+[21:52:55] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:52:55] Connection with the MySQL server established.
+[21:52:55] Accepting client connections on port 15552.
+[21:52:55] Connecting to gateway 127.0.0.1:14440.
+[21:52:55] Connection with gateway established.
+[21:52:55] [0][SQUARE] 127.0.0.1 connected.
+[21:52:55] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:53:35] [1][CLIENT] 127.0.0.1 connected.
+[21:53:42] [0][CLIENT] 127.0.0.1 connected.
+[21:53:55] [0][SQUARE] 127.0.0.1 disconnected.
+[21:54:04] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:54:04] Connection with the MySQL server established.
+[21:54:04] Accepting client connections on port 15552.
+[21:54:04] Connecting to gateway 127.0.0.1:14440.
+[21:54:04] Connection with gateway established.
+[21:54:04] [0][SQUARE] 127.0.0.1 connected.
+[21:54:04] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:54:10] [0][CLIENT] 127.0.0.1 connected.
+[21:54:16] [0][SQUARE] 127.0.0.1 disconnected.
+[21:55:49] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:55:49] Connection with the MySQL server established.
+[21:55:49] Accepting client connections on port 15552.
+[21:55:49] Connecting to gateway 127.0.0.1:14440.
+[21:55:49] Connection with gateway established.
+[21:55:49] [0][SQUARE] 127.0.0.1 connected.
+[21:55:49] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:55:54] [0][CLIENT] 127.0.0.1 connected.
+[21:55:58] [1][CLIENT] 127.0.0.1 disconnected.
+[21:55:58] [0][CLIENT] 127.0.0.1 disconnected.
+[21:56:23] [0][SQUARE] 127.0.0.1 disconnected.
+[21:56:28] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:56:28] Connection with the MySQL server established.
+[21:56:28] Accepting client connections on port 15552.
+[21:56:28] Connecting to gateway 127.0.0.1:14440.
+[21:56:28] Connection with gateway established.
+[21:56:28] [0][SQUARE] 127.0.0.1 connected.
+[21:56:28] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:57:29] [1][CLIENT] 127.0.0.1 connected.
+[21:57:29] [1][CLIENT] 127.0.0.1 disconnected.
+[21:57:34] [1][CLIENT] 127.0.0.1 connected.
+[21:57:44] [0][CLIENT] 127.0.0.1 connected.
+[21:58:37] [0][SQUARE] 127.0.0.1 disconnected.
+[22:00:39] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:00:39] Connection with the MySQL server established.
+[22:00:39] Accepting client connections on port 15552.
+[22:00:39] Connecting to gateway 127.0.0.1:14440.
+[22:00:39] Connection with gateway established.
+[22:00:39] [0][SQUARE] 127.0.0.1 connected.
+[22:00:39] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:00:48] Server started on port 15550.
+[22:00:48] Accepting square connections on port 14440.
+[22:00:48] Connection with the MySQL server established.
+[22:00:49] Connection with gateway established.
+[22:00:49] [0][SQUARE] 127.0.0.1 connected.
+[22:00:49] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:00:54] [1][CLIENT] 127.0.0.1 connected.
+[22:01:18] [0][CLIENT] 127.0.0.1 connected.
+[22:04:35] [0][SQUARE] 127.0.0.1 disconnected.
+[22:18:10] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:18:10] Connection with the MySQL server established.
+[22:18:10] Accepting client connections on port 15552.
+[22:18:10] Connecting to gateway 127.0.0.1:14440.
+[22:18:10] Connection with gateway established.
+[22:18:10] [0][SQUARE] 127.0.0.1 connected.
+[22:18:10] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:18:15] [0][SQUARE] 127.0.0.1 disconnected.
+[22:18:38] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:18:38] Connection with the MySQL server established.
+[22:18:38] Accepting client connections on port 15552.
+[22:18:38] Connecting to gateway 127.0.0.1:14440.
+[22:18:38] Connection with gateway established.
+[22:18:38] [0][SQUARE] 127.0.0.1 connected.
+[22:18:38] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:18:43] [0][SQUARE] 127.0.0.1 disconnected.
+[22:21:25] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:21:25] Connection with the MySQL server established.
+[22:21:25] Accepting client connections on port 15552.
+[22:21:25] Connecting to gateway 127.0.0.1:14440.
+[22:21:25] Connection with gateway established.
+[22:21:25] [0][SQUARE] 127.0.0.1 connected.
+[22:21:25] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:21:31] [0][SQUARE] 127.0.0.1 disconnected.
+[22:22:06] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:22:06] Connection with the MySQL server established.
+[22:22:06] Accepting client connections on port 15552.
+[22:22:06] Connecting to gateway 127.0.0.1:14440.
+[22:22:06] Connection with gateway established.
+[22:22:06] [0][SQUARE] 127.0.0.1 connected.
+[22:22:06] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:22:10] [0][SQUARE] 127.0.0.1 disconnected.
+[22:22:22] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:22:22] Connection with the MySQL server established.
+[22:22:22] Accepting client connections on port 15552.
+[22:22:22] Connecting to gateway 127.0.0.1:14440.
+[22:22:22] Connection with gateway established.
+[22:22:22] [0][SQUARE] 127.0.0.1 connected.
+[22:22:22] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:22:50] [0][SQUARE] 127.0.0.1 disconnected.
+[22:22:56] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:22:56] Connection with the MySQL server established.
+[22:22:56] Accepting client connections on port 15552.
+[22:22:56] Connecting to gateway 127.0.0.1:14440.
+[22:22:56] Connection with gateway established.
+[22:22:56] [0][SQUARE] 127.0.0.1 connected.
+[22:22:56] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:22:59] [0][SQUARE] 127.0.0.1 disconnected.
+[22:23:35] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:23:35] Connection with the MySQL server established.
+[22:23:35] Accepting client connections on port 15552.
+[22:23:35] Connecting to gateway 127.0.0.1:14440.
+[22:23:35] Connection with gateway established.
+[22:23:35] [0][SQUARE] 127.0.0.1 connected.
+[22:23:35] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:23:39] [0][SQUARE] 127.0.0.1 disconnected.
+[22:24:05] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:24:05] Connection with the MySQL server established.
+[22:24:05] Accepting client connections on port 15552.
+[22:24:05] Connecting to gateway 127.0.0.1:14440.
+[22:24:05] Connection with gateway established.
+[22:24:05] [0][SQUARE] 127.0.0.1 connected.
+[22:24:05] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:24:07] [0][SQUARE] 127.0.0.1 disconnected.
+[22:24:17] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:24:17] Connection with the MySQL server established.
+[22:24:17] Accepting client connections on port 15552.
+[22:24:17] Connecting to gateway 127.0.0.1:14440.
+[22:24:17] Connection with gateway established.
+[22:24:17] [0][SQUARE] 127.0.0.1 connected.
+[22:24:17] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:24:19] [0][SQUARE] 127.0.0.1 disconnected.
+[22:24:48] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:24:48] Connection with the MySQL server established.
+[22:24:48] Accepting client connections on port 15552.
+[22:24:48] Connecting to gateway 127.0.0.1:14440.
+[22:24:48] Connection with gateway established.
+[22:24:48] [0][SQUARE] 127.0.0.1 connected.
+[22:24:48] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:25:10] [0][SQUARE] 127.0.0.1 disconnected.
+[22:25:34] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:25:34] Connection with the MySQL server established.
+[22:25:34] Accepting client connections on port 15552.
+[22:25:34] Connecting to gateway 127.0.0.1:14440.
+[22:25:34] Connection with gateway established.
+[22:25:34] [0][SQUARE] 127.0.0.1 connected.
+[22:25:34] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:25:40] [0][SQUARE] 127.0.0.1 disconnected.
+[22:26:19] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:26:19] Connection with the MySQL server established.
+[22:26:19] Accepting client connections on port 15552.
+[22:26:19] Connecting to gateway 127.0.0.1:14440.
+[22:26:19] Connection with gateway established.
+[22:26:19] [0][SQUARE] 127.0.0.1 connected.
+[22:26:19] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:26:24] [0][SQUARE] 127.0.0.1 disconnected.
+[22:27:33] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:27:33] Connection with the MySQL server established.
+[22:27:33] Accepting client connections on port 15552.
+[22:27:33] Connecting to gateway 127.0.0.1:14440.
+[22:27:33] Connection with gateway established.
+[22:27:33] [0][SQUARE] 127.0.0.1 connected.
+[22:27:33] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:27:34] [0][SQUARE] 127.0.0.1 disconnected.
+[22:27:48] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:27:48] Connection with the MySQL server established.
+[22:27:48] Accepting client connections on port 15552.
+[22:27:48] Connecting to gateway 127.0.0.1:14440.
+[22:27:48] Connection with gateway established.
+[22:27:48] [0][SQUARE] 127.0.0.1 connected.
+[22:27:48] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:27:54] [0][SQUARE] 127.0.0.1 disconnected.
+[22:28:08] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:28:08] Connection with the MySQL server established.
+[22:28:08] Accepting client connections on port 15552.
+[22:28:08] Connecting to gateway 127.0.0.1:14440.
+[22:28:08] Connection with gateway established.
+[22:28:08] [0][SQUARE] 127.0.0.1 connected.
+[22:28:08] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:28:18] [0][SQUARE] 127.0.0.1 disconnected.
+[22:28:26] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:28:26] Connection with the MySQL server established.
+[22:28:26] Accepting client connections on port 15552.
+[22:28:26] Connecting to gateway 127.0.0.1:14440.
+[22:28:26] Connection with gateway established.
+[22:28:26] [0][SQUARE] 127.0.0.1 connected.
+[22:28:26] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:28:31] [0][SQUARE] 127.0.0.1 disconnected.
+[22:28:57] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:28:57] Connection with the MySQL server established.
+[22:28:57] Accepting client connections on port 15552.
+[22:28:57] Connecting to gateway 127.0.0.1:14440.
+[22:28:57] Connection with gateway established.
+[22:28:57] [0][SQUARE] 127.0.0.1 connected.
+[22:28:57] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:29:01] [0][SQUARE] 127.0.0.1 disconnected.
+[22:29:17] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:29:17] Connection with the MySQL server established.
+[22:29:17] Accepting client connections on port 15552.
+[22:29:18] Connecting to gateway 127.0.0.1:14440.
+[22:29:18] Connection with gateway established.
+[22:29:18] [0][SQUARE] 127.0.0.1 connected.
+[22:29:18] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:29:20] [0][SQUARE] 127.0.0.1 disconnected.
+[22:29:38] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:29:38] Connection with the MySQL server established.
+[22:29:38] Accepting client connections on port 15552.
+[22:29:38] Connecting to gateway 127.0.0.1:14440.
+[22:29:38] Connection with gateway established.
+[22:29:38] [0][SQUARE] 127.0.0.1 connected.
+[22:29:38] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:29:44] [0][SQUARE] 127.0.0.1 disconnected.
+[22:30:33] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:30:33] Connection with the MySQL server established.
+[22:30:33] Accepting client connections on port 15552.
+[22:30:33] Connecting to gateway 127.0.0.1:14440.
+[22:30:33] Connection with gateway established.
+[22:30:33] [0][SQUARE] 127.0.0.1 connected.
+[22:30:33] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:30:36] [0][SQUARE] 127.0.0.1 disconnected.
+[22:31:02] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:31:02] Connection with the MySQL server established.
+[22:31:02] Accepting client connections on port 15552.
+[22:31:02] Connecting to gateway 127.0.0.1:14440.
+[22:31:02] Connection with gateway established.
+[22:31:02] [0][SQUARE] 127.0.0.1 connected.
+[22:31:02] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:31:06] [0][SQUARE] 127.0.0.1 disconnected.
+[22:35:15] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:35:15] Connection with the MySQL server established.
+[22:35:15] Accepting client connections on port 15552.
+[22:35:15] Connecting to gateway 127.0.0.1:14440.
+[22:35:15] Connection with gateway established.
+[22:35:15] [0][SQUARE] 127.0.0.1 connected.
+[22:35:15] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:35:36] Server started on port 15550.
+[22:35:36] Accepting square connections on port 14440.
+[22:35:36] Connection with the MySQL server established.
+[22:35:37] Connection with gateway established.
+[22:35:37] [0][SQUARE] 127.0.0.1 connected.
+[22:35:37] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:35:41] [1][CLIENT] 127.0.0.1 connected.
+[22:35:41] [1][CLIENT] 127.0.0.1 disconnected.
+[22:35:48] [1][CLIENT] 127.0.0.1 connected.
+[22:35:48] [1][CLIENT] 127.0.0.1 disconnected.
+[22:35:53] [1][CLIENT] 127.0.0.1 connected.
+[22:35:59] [0][CLIENT] 127.0.0.1 connected.
+[22:36:57] [0][SQUARE] 127.0.0.1 disconnected.
+[22:37:16] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:37:16] Connection with the MySQL server established.
+[22:37:16] Accepting client connections on port 15552.
+[22:37:16] Connecting to gateway 127.0.0.1:14440.
+[22:37:16] Connection with gateway established.
+[22:37:16] [0][SQUARE] 127.0.0.1 connected.
+[22:37:16] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:37:22] [0][CLIENT] 127.0.0.1 connected.
+[22:38:44] [0][SQUARE] 127.0.0.1 disconnected.
+[22:49:31] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[22:49:31] Connection with the MySQL server established.
+[22:49:31] Accepting client connections on port 15552.
+[22:49:31] Connecting to gateway 127.0.0.1:14440.
+[22:49:31] Connection with gateway established.
+[22:49:31] [0][SQUARE] 127.0.0.1 connected.
+[22:49:31] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:49:41] Server started on port 15550.
+[22:49:41] Accepting square connections on port 14440.
+[22:49:41] Connection with the MySQL server established.
+[22:49:41] Connection with gateway established.
+[22:49:41] [0][SQUARE] 127.0.0.1 connected.
+[22:49:41] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[22:49:47] [1][CLIENT] 127.0.0.1 connected.
+[22:49:53] [0][CLIENT] 127.0.0.1 connected.
+[22:52:23] [0][SQUARE] 127.0.0.1 disconnected.
+[23:02:23] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[23:02:23] Connection with the MySQL server established.
+[23:02:23] Accepting client connections on port 15552.
+[23:02:23] Connecting to gateway 127.0.0.1:14440.
+[23:02:23] Connection with gateway established.
+[23:02:23] [0][SQUARE] 127.0.0.1 connected.
+[23:02:23] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[23:02:55] Server started on port 15550.
+[23:02:55] Accepting square connections on port 14440.
+[23:02:55] Connection with the MySQL server established.
+[23:02:55] [0][SQUARE] 127.0.0.1 connected.
+[23:02:55] Connection with gateway established.
+[23:02:55] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[23:03:01] [1][CLIENT] 127.0.0.1 connected.
+[23:03:10] [0][CLIENT] 127.0.0.1 connected.
+[23:34:45] [0][SQUARE] 127.0.0.1 disconnected.
+[21:20:16] Server started on port 15550.
+[21:20:16] Accepting square connections on port 14440.
+[21:20:17] Connection with the MySQL server established.
+[21:20:43] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:20:44] Connection with the MySQL server established.
+[21:20:44] Accepting client connections on port 15552.
+[21:20:44] Connecting to gateway 127.0.0.1:14440.
+[21:20:44] Connection with gateway established.
+[21:20:44] [0][SQUARE] 127.0.0.1 connected.
+[21:20:44] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:21:18] [1][CLIENT] 127.0.0.1 connected.
+[21:21:25] [1][CLIENT] 127.0.0.1 disconnected.
+[21:22:11] [1][CLIENT] 127.0.0.1 connected.
+[21:22:16] [0][CLIENT] 127.0.0.1 connected.
+[21:23:58] [0][SQUARE] 127.0.0.1 disconnected.
+[21:24:27] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:24:27] Connection with the MySQL server established.
+[21:24:27] Accepting client connections on port 15552.
+[21:24:27] Connecting to gateway 127.0.0.1:14440.
+[21:24:27] Connection with gateway established.
+[21:24:27] [0][SQUARE] 127.0.0.1 connected.
+[21:24:27] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:24:33] [0][CLIENT] 127.0.0.1 connected.
+[21:25:39] [0][SQUARE] 127.0.0.1 disconnected.
+[21:31:56] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:31:56] Connection with the MySQL server established.
+[21:31:56] Accepting client connections on port 15552.
+[21:31:56] Connecting to gateway 127.0.0.1:14440.
+[21:31:56] Connection with gateway established.
+[21:31:56] [0][SQUARE] 127.0.0.1 connected.
+[21:31:56] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:32:01] [0][CLIENT] 127.0.0.1 connected.
+[21:32:13] Server started on port 15550.
+[21:32:14] Accepting square connections on port 14440.
+[21:32:14] Connection with the MySQL server established.
+[21:32:14] Connection with gateway established.
+[21:32:14] [0][SQUARE] 127.0.0.1 connected.
+[21:32:14] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:32:14] [0][CLIENT] 127.0.0.1 disconnected.
+[21:32:21] [1][CLIENT] 127.0.0.1 connected.
+[21:32:26] [0][CLIENT] 127.0.0.1 connected.
+[21:32:53] [0][SQUARE] 127.0.0.1 disconnected.
+[21:33:26] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:33:26] Connection with the MySQL server established.
+[21:33:26] Accepting client connections on port 15552.
+[21:33:26] Connecting to gateway 127.0.0.1:14440.
+[21:33:26] Connection with gateway established.
+[21:33:26] [0][SQUARE] 127.0.0.1 connected.
+[21:33:26] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:33:30] [0][CLIENT] 127.0.0.1 connected.
+[21:33:43] [0][SQUARE] 127.0.0.1 disconnected.
+[21:35:43] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:35:43] Connection with the MySQL server established.
+[21:35:43] Accepting client connections on port 15552.
+[21:35:43] Connecting to gateway 127.0.0.1:14440.
+[21:35:43] Connection with gateway established.
+[21:35:43] [0][SQUARE] 127.0.0.1 connected.
+[21:35:43] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:35:51] Server started on port 15550.
+[21:35:51] Accepting square connections on port 14440.
+[21:35:51] Connection with the MySQL server established.
+[21:35:51] Connection with gateway established.
+[21:35:51] [0][SQUARE] 127.0.0.1 connected.
+[21:35:51] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:35:57] [1][CLIENT] 127.0.0.1 connected.
+[21:35:57] [1][CLIENT] 127.0.0.1 disconnected.
+[21:35:59] [1][CLIENT] 127.0.0.1 connected.
+[21:36:03] [0][CLIENT] 127.0.0.1 connected.
+[21:37:35] [0][SQUARE] 127.0.0.1 disconnected.
+[21:38:07] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:38:07] Connection with the MySQL server established.
+[21:38:07] Accepting client connections on port 15552.
+[21:38:07] Connecting to gateway 127.0.0.1:14440.
+[21:38:07] Connection with gateway established.
+[21:38:07] [0][SQUARE] 127.0.0.1 connected.
+[21:38:07] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:38:09] [0][CLIENT] 127.0.0.1 connected.
+[21:38:35] [0][SQUARE] 127.0.0.1 disconnected.
+[21:39:14] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:39:14] Connection with the MySQL server established.
+[21:39:14] Accepting client connections on port 15552.
+[21:39:14] Connecting to gateway 127.0.0.1:14440.
+[21:39:14] Connection with gateway established.
+[21:39:14] [0][SQUARE] 127.0.0.1 connected.
+[21:39:14] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:39:20] [0][CLIENT] 127.0.0.1 connected.
+[21:40:06] [0][SQUARE] 127.0.0.1 disconnected.
+[21:40:16] Square: Soldin v0.1 (port: 15552, capacity: 70)
+[21:40:16] Connection with the MySQL server established.
+[21:40:16] Accepting client connections on port 15552.
+[21:40:16] Connecting to gateway 127.0.0.1:14440.
+[21:40:16] Connection with gateway established.
+[21:40:16] [0][SQUARE] 127.0.0.1 connected.
+[21:40:16] [0][0][SQUARE] Square 'Soldin v0.1' (127.0.0.1:15552) has been added.
+[21:40:22] [0][CLIENT] 127.0.0.1 connected.
+[21:40:49] [0][SQUARE] 127.0.0.1 disconnected.
